@@ -5,7 +5,7 @@ Small popcorn.js site to share photos from 2010 world cup. Ghana vs USA.
 
 
 
-![Ghana Celebration](http://cl.ly/image/0r3s451x0m1V/3.jpg)
+![Ghana Celebration](http://cl.ly/image/0d243a330k0F/3.png)
 
 
  ⚽️🏃🇺🇸
